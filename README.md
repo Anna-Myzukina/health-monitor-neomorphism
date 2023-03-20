@@ -4,3 +4,5 @@
 <h1>Health Performance Monitor UI </h1>
 
 Health Performance Monitor ui design in a neomorphism effect built using Flutter. Show some ❤️ and star the repo, it makes me to share more open source flutter projects.
+
+![New Project (2)](https://miro.medium.com/v2/resize:fit:1400/1*LxaXPKw-yqM8s9ag9cdJpA.png)
